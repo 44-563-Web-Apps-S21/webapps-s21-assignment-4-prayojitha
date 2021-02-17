@@ -1,0 +1,39 @@
+
+.antonio { font-family: Times;
+    color: black;
+    font-size : 15px; }
+
+    
+   
+.panthino {font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(168, 22, 22);
+    font-size : 15px;
+    
+}
+.proteus{ font-family:arial;
+    color: rgb(18, 119, 52);
+    font-size : 15px;
+
+}
+   
+ a
+  {  
+        background-color: rgb(245, 241, 205);
+        color:black;
+
+      }
+
+
+      a:hover{
+        background-color: rgb(132, 172, 134);
+        color:black;
+
+      }
+
+      p{ 
+          background-color: rgb(156, 168, 194);
+      }
+      
+
+
+    
