@@ -1,7 +1,15 @@
 
 .antonio { font-family: Times;
     color: black;
-    font-size : 15px; }
+    font-size : 15px;
+    text-shadow: 2px 2px 5px red;
+    border: solid 1px;
+
+}
+.antonio:hover{
+    text-shadow: 2px 2px 5px green;
+    border: solid 3px;
+}
 .panthino {font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(168, 22, 22);
     font-size : 15px;
@@ -29,6 +37,18 @@ a
       }
       
 
-      
+      table{
+          text-align: center;
+           border: solid 3px;
+        border-collapse: collapse;
+        outline: solid 2px lightcoral;
+        padding : 2px;
+        margin : 3px;
 
-    
+    }
+
+    tr:nth-child(even) {
+        background-color: #f2f2f2;
+      }
+
+
